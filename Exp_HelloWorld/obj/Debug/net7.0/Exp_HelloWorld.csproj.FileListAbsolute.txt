@@ -1,0 +1,15 @@
+E:\C#\Exp_HelloWorld\bin\Debug\net7.0\Exp_HelloWorld.exe
+E:\C#\Exp_HelloWorld\bin\Debug\net7.0\Exp_HelloWorld.deps.json
+E:\C#\Exp_HelloWorld\bin\Debug\net7.0\Exp_HelloWorld.runtimeconfig.json
+E:\C#\Exp_HelloWorld\bin\Debug\net7.0\Exp_HelloWorld.dll
+E:\C#\Exp_HelloWorld\bin\Debug\net7.0\Exp_HelloWorld.pdb
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.csproj.AssemblyReference.cache
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.AssemblyInfoInputs.cache
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.AssemblyInfo.cs
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.csproj.CoreCompileInputs.cache
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.dll
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\refint\Exp_HelloWorld.dll
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.pdb
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\Exp_HelloWorld.genruntimeconfig.cache
+E:\C#\Exp_HelloWorld\obj\Debug\net7.0\ref\Exp_HelloWorld.dll
